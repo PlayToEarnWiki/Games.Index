@@ -37,7 +37,7 @@ https://play.google.com/store/apps/details?id=com.affinity.rewarded_play
 https://play.google.com/store/apps/details?id=com.justplay.app
 
 https://play.google.com/store/apps/details?id=com.prodege.swagbucksmobile
-
+https://play.google.com/store/apps/details?id=com.balance.poker.brought
 https://play.google.com/store/apps/details?id=com.freecash.app2
 https://play.google.com/store/apps/details?id=online.theluckyminer.app
 https://play.google.com/store/apps/details?id=ci.atlasearth.client
